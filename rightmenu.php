@@ -60,7 +60,6 @@
 <ul>
 <div class="menus">
 <br>
-<center><iframe src="https://discord.com/widget?id=994401887577198693&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe></center>
 <br>
 </div>
 </ul>
